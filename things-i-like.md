@@ -5,7 +5,12 @@ permalink: /things-i-like/
 
 ### Quotes
 
-The most damaging phrase in the language is “We’ve always done it this way!”<br><t>*— Rear Admiral Grace Murray Hopper*
+"The most damaging phrase in the language is 'We’ve always done it this way!'"<br><t>*— Rear Admiral Grace Murray Hopper*
+
+"Be who you are and say what you feel because those who matter don't mind and those who mind don't matter."<br><t>*Dr. Seuss*
+
+"The hotel sincerely apologizes for the internet outages this morning, it should be back up an running soon. We ask, however, that you do NOT go down and offer to help."<br><t>*- Announcement made at the 2010 Grace Hopper Celebration of Women in Computing*
+
 
 ### Organizations I Support or Follow
 
@@ -14,3 +19,9 @@ The most damaging phrase in the language is “We’ve always done it this way!�
 * [Open Houston](http://ohouston.org/) - A community group dedicated to civic innovation
 * [GHC](http://gracehopper.anitaborg.org/) - Grace Hopper Celebration of Women in Computing
 * [Rice MOB](mob.rice.edu) - Not your average marching band...
+
+### Girls & STEM
+* [GoldieBlox](http://www.goldieblox.com/) - Award-winning construction toys for girls
+* [Lego Research Institute set](http://shop.lego.com/en-US/Research-Institute-21110) - Featuring female scientists
+* [Frozen Coding Challenge](https://studio.code.org/s/frozen/stage/1/puzzle/1) - From Hour of Code 2014
+* [Tweet Skirt by Kristina Durivage](http://portfolio.gelicia.com/tweetskirt/) - Ok... pretty much everything on her [site](http://portfolio.gelicia.com/) is awesome
