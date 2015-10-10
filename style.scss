@@ -31,7 +31,6 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $raleway;
   color: $darkerGray;
   font-weight: bold;
 
@@ -183,6 +182,7 @@ img {
 }
 
 .site-info {
+  font-family: $cabin;
   float: left;
 
   @include mobile {
@@ -203,6 +203,7 @@ img {
 }
 
 .site-description {
+  font-family: $cabin;
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
