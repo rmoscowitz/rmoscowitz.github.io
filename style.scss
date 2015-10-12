@@ -18,21 +18,21 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $tahoma;
+  background: $white;
+  font: 18px/1.4 $raleway;
   color: $darkGray;
 }
 
 .container {
   margin: 0 auto;
-  max-width: 740px;
+  max-width: 900px;
   padding: 0 10px;
   width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $raleway;
   color: $darkerGray;
+  font-family: $raleway;
   font-weight: bold;
 
   line-height: 1.7;
@@ -65,10 +65,12 @@ h4 {
 }
 
 p {
+  font-family: $raleway;
   margin: 15px 0;
 }
 
 a {
+  font-family: $raleway;
   color: $blue;
   text-decoration: none;
 	cursor: pointer;
@@ -181,6 +183,7 @@ img {
 }
 
 .site-info {
+  font-family: $cabin;
   float: left;
 
   @include mobile {
@@ -201,6 +204,7 @@ img {
 }
 
 .site-description {
+  font-family: $cabin;
   margin: -5px 0 0 0;
   color: $gray;
   font-size: 16px;
