@@ -7,7 +7,7 @@ permalink: /things-i-like/
 
 "The most damaging phrase in the language is 'We’ve always done it this way!'"<br>  *— Rear Admiral Grace Murray Hopper*
 
-"Be who you are and say what you feel because those who matter don't mind and those who mind don't matter."<br> *-Dr. Seuss*
+"Be who you are and say what you feel because those who matter don't mind and those who mind don't matter."<br> *— Dr. Seuss*
 
 "The hotel sincerely apologizes for the internet outages this morning, it should be back up an running soon. We ask, however, that you do NOT go down and offer to help."<br> *- Announcement made at the 2010 Grace Hopper Celebration of Women in Computing*
 
