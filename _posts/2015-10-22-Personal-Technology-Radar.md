@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lots of Firsts
+title: Personal Technology Radar
 ---
 
 I've created a personal Technology Radar (based on the ThoughtWorks Technology Radar)! 
