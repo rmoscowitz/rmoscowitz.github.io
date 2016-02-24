@@ -30,7 +30,7 @@ I have to say, this was an excellent way to spend a day of vacation. With Greg m
 
 If you'd like your own musical seizure machine, I used [lightshowpi](http://lightshowpi.org/getting-started/) to process the music and control the relays. The design of the wiring is up to you, but lightshowpi and Instructables have lots of tutorials!
 
-![Musical Seizure Machine in Action](https://goo.gl/photos/LrX9kZUNcZAhcDcS7)
+[Musical Seizure Machine in Action](https://goo.gl/photos/LrX9kZUNcZAhcDcS7)
 
 ### SWA auto-checkin with Docker
 Like many Americans, I spent several hours of my holidays in an airport. Since I was flying Southwest, I had the unfortunate inconvenience of needing to check in _exactly_ 24 hours (to the second!) before my flight to get a good boarding number. In the past, I've successfully used scripts that found after wading through github, but this time I wanted to be a little smarter. Since I'd just reinstalled the operating system on my Mac, I decided to give Docker a try. The script that I wanted to run required about a gajillion Ruby dependencies which I just didn't want polluting my shiney new OS. Enter Docker + VirtualBox. 
