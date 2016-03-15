@@ -90,5 +90,6 @@ clearAnimations(event) {
 }
 ```
 
-The final result is a nice radioactive glow:
-[[http://g.recordit.co/RdNHt65A9c.gif|alt=pulse]]
+The final result is a nice radioactive glow!
+
+![Pulsing Button](http://g.recordit.co/RdNHt65A9c.gif)
