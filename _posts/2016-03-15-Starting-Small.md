@@ -64,13 +64,13 @@ Our application uses LESS, so to make my life a little easier, I'm making use of
 These two mixins generate browser-specific prefixes for keyframes and animation. That means all I have to do to produce a pulsing effect for all non-IE browsers is:
 
 ```CSS
-  .btn-pulse {
-    .keyframes(greenPulse; {
-      50% { box-shadow: 0 0 18px @green; }
-    });
+.btn-pulse {
+  .keyframes(greenPulse; {
+    50% { box-shadow: 0 0 18px @green; }
+  });
 
-    .animation(greenPulse 1.5s infinite);
-  }
+  .animation(greenPulse 1.5s infinite);
+}
 ```
 
 The btn-pulse class first uses the keyframes mixin to generate a set of keyframes called greenPulse which, over the duration of the animation, will transition to a green shadow (when the transition is 50% complete) then back to it's starting state. Then, use the animation mixin to use the greenPulse keyframes in a 1.5-second animation which will loop forever.
@@ -78,7 +78,8 @@ The btn-pulse class first uses the keyframes mixin to generate a set of keyframe
 The final bit is to add some behavior to the button so that when you hover over it, it will stop pulsing.
 
 ```html
-<button type="button" class="the-btn btn btn-default" ng-mouseenter="configController.clearAnimations($event)">
+<button type="button" class="the-btn btn btn-default" 
+        ng-mouseenter="configController.clearAnimations($event)">
   Add New
 </button>
 ```
