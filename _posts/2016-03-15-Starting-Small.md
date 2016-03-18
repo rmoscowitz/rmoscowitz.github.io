@@ -47,7 +47,7 @@ The animateButton is less interesting. Since angular's jqlite doesn't provide a 
 
 Our application uses LESS, so to make my life a little easier, I'm making use of two LESS mixins.
 
-```CSS
+```css
 .keyframes(@name, @arguments) {
   @-moz-keyframes @name { @arguments(); }
   @-webkit-keyframes @name { @arguments(); }
@@ -92,4 +92,4 @@ clearAnimations(event) {
 
 The final result is a nice radioactive glow!
 
-![Pulsing Button](http://g.recordit.co/RdNHt65A9c.gif)
+![Glowing Button!](../images/green_glow.gif)
