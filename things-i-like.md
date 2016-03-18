@@ -24,7 +24,10 @@ permalink: /things-i-like/
 * [GoldieBlox](http://www.goldieblox.com/) - Award-winning construction toys for girls
 * [Lego Research Institute set](http://shop.lego.com/en-US/Research-Institute-21110) - Featuring female scientists
 * [Frozen Coding Challenge](https://studio.code.org/s/frozen/stage/1/puzzle/1) - From Hour of Code 2014
+* [Star Wars Coding Challenge](https://studio.code.org/s/starwars/stage/1/puzzle/1) - From Hour of Code 2015
 * [Tweet Skirt by Kristina Durivage](http://portfolio.gelicia.com/tweetskirt/) - Ok... pretty much everything on her [site](http://portfolio.gelicia.com/) is awesome
+* [Regex Crossword](https://regexcrossword.com/) - oh gawd yes so nerdy
+* [Flexbox Defense](http://www.flexboxdefense.com/) - achieving the impossible of making learning CSS fun
 
 ### Cool Tech
 * [Andrew Sorensen at OSCON 2014](https://www.youtube.com/watch?v=yY1FSsUV-8c)
