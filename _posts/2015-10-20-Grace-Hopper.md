@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Grace Hopper Celebration of Women in Computing
+excerpt_separator: <!--more-->
 ---
 
 It's amazing how time flies; it seems like it was only yesterday I was boarding a plane for my first trip to GHC. Five years later, I've attended three times and helped 20 other people (including one speaker) get to GHC. It's been quite a journey!
-
+<!--more-->
 Five years ago, I was a junior in college. I hadn't done an internship at Facebook or Google. I wasn't participating in hackathons. I didn't have 10 iPhone apps in the app store making me money. In fact, I wasn't even sure I chosen the right major, despite loving what I was learning. There were many factors working against me (mostly self-imposed fears and doubts), and I'm still surprised that I stuck with computer science. However, when I look back to junior year, there's an experience that really did make a difference: the Grace Hopper Celebration of Women in Computing. 
 
 ![GHC2010](../images/GHC2010.jpg)
