@@ -63,7 +63,7 @@ Our application uses LESS, so to make my life a little easier, I'm making use of
 
 These two mixins generate browser-specific prefixes for keyframes and animation. That means all I have to do to produce a pulsing effect for all non-IE browsers is:
 
-```CSS
+```css
 .btn-pulse {
   .keyframes(greenPulse; {
     50% { box-shadow: 0 0 18px @green; }
