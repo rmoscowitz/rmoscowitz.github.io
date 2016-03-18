@@ -44,5 +44,3 @@ For anyone interested by the brief, but fascinating history of the computer and 
 * It was illegal to connect a commercial service (like AOL) to the Internet until 1992
 * At the beginning of 1993 there were 50 web servers in the world; by October there were 500.
 * The original wiki program was called WikiWikiWeb (wiki for short) because wiki means quick (and wiki wiki means superquick) in Hawaiian.
-
-
