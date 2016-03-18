@@ -16,14 +16,14 @@ I have two angular directives; let's call them the main panel and configuration 
 
 In the template of the main panel, I have a message with an embedded link.
 
-{% highlight html linenos %}
+```html
 <span>
   You can't do that here. Please go to the 
   <a ng-click="mainController.click(id, mainController.animateButton)">
     configuration page
   </a>.
 </span>
-{% endhighlight %}
+```
 
 Clicking the link will call the click function on the controller. Notice that two arguments are passed: an id and the animateButton function (from the directive's controller).
 
