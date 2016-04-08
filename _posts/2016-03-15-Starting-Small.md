@@ -86,7 +86,7 @@ The final bit is to add some behavior to the button so that when you hover over 
 
 ```javascript
 clearAnimations(event) {
-  angular.element(event.target).removeClass('add-depth-btn-pulse');
+  angular.element(event.target).removeClass('btn-pulse');
 }
 ```
 
