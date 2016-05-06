@@ -24,4 +24,4 @@ Then the stars aligned. We found out that GHC 2015 was going to be held here in 
 
 I wish I remembered who originally offered me the opportunity to attend GHC as a student. I would go back and thank them and tell them how much of an impact it made on me. Because of that opportunity, I stayed in technology and I've been able to share the GHC experience with my company and colleagues. Like I said, it's been an amazing journey.
 
-More about GHC: http://gracehopper.anitaborg.org/
+More about GHC: [http://gracehopper.anitaborg.org/](http://gracehopper.anitaborg.org/)
