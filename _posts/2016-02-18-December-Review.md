@@ -34,13 +34,14 @@ If you'd like your own musical seizure machine, I used [lightshowpi](http://ligh
 
 ### SWA auto-checkin with Docker
 Like many Americans, I spent several hours of my holidays in an airport. Since I was flying Southwest, I had the unfortunate inconvenience of needing to check in _exactly_ 24 hours (to the second!) before my flight to get a good boarding number. In the past, I've successfully used scripts that I found after wading through github, but this time I wanted to be a little smarter. Since I'd just reinstalled the operating system on my Mac, I decided to give Docker a try. The script that I wanted to run required about a gajillion Ruby dependencies which I just didn't want polluting my shiney new OS. Enter Docker + VirtualBox. 
-h
+
 For a one-off script, this was exactly what I needed. Even though the script didn't work (SWA has undoubtedly blocked it), it was definitely a fun exercise and I would totally use Docker again for projects with lots of dependencies I don't want on my machine (so... pretty much everything). 
 
 ### Book Review! (The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution)
 For anyone interested by the brief, but fascinating history of the computer and world wide web, _The Innovators_ provides a sweeping overview of the main characters and events. I found this book to be a bit tedious, but full of great tid-bits and overall very captivating. I thought the author, Walter Isaccson, struggled with the narrative: the chapters became quite formulaic ("Here are some names of relevant people, where they're from and what their fathers did for a living. Together they accomplished something.") and by the end I was sick of being beat over the head with the same thesis over and over, but despite that, I still enjoyed this book. I was particularly interested in the final chapters about the birth of the world wide web and the Internet as we know it. Some amusing facts (which I've surprisingly retained for several months):
- * Larry Page actually named PageRank after himself (not because it literally ranked pages)
- * Sergey Brin and Larry Page celebrated their initial funding ($100,000 from Andy Bechtolsheim, cofounder of Sun Microsystems) by going to Burger King.
- * It was illegal to connect a commercial service (like AOL) to the Internet until 1992
- * At the beginning of 1993 there were 50 web servers in the world; by October there were 500.
- * The original wiki program was called WikiWikiWeb (wiki for short) because wiki means quick (and wiki wiki means superquick) in Hawaiian.
+
+  * Larry Page actually named PageRank after himself (not because it literally ranked pages)
+  * Sergey Brin and Larry Page celebrated their initial funding ($100,000 from Andy Bechtolsheim, cofounder of Sun Microsystems) by going to Burger King.
+  * It was illegal to connect a commercial service (like AOL) to the Internet until 1992
+  * At the beginning of 1993 there were 50 web servers in the world; by October there were 500.
+  * The original wiki program was called WikiWikiWeb (wiki for short) because wiki means quick (and wiki wiki means superquick) in Hawaiian.
