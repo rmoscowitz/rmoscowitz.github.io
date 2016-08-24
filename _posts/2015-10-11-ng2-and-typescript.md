@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Angular2 and Typescript
-published: false
 ---
 
 Several weeks ago, our development team here at iOffice began the monumental task of preparing for Angular2/Typescript development. There has been shouting. And tears. And a significant increase in chocolate consumption. Our team has bonded in hatred of the angular core team with each breaking change and gushed as interesting new features and fixes actually become available.
