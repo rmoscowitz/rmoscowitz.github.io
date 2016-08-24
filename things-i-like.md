@@ -15,7 +15,7 @@ permalink: /things-i-like/
 ### Organizations I Support or Follow
 
 * [TEALSK12](https://www.tealsk12.org/) - Computer Science in Every High School
-* [CFA](http://www.codeforamerica.org/) - Code for America\
+* [CFA](http://www.codeforamerica.org/) - Code for America
 * [Rice MOB](mob.rice.edu) - Not your average marching band...
 
 ### Conferences I've Attended
