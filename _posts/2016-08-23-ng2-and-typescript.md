@@ -10,7 +10,6 @@ Once our build process stabilized and we cemented the the integration with our e
 
 _Useful resources:_
 
-  * [ui-router for Angular2 example](https://github.com/ui-router/quickstart-ng2)
   * [AiA Angular 2 Tips podcast with Pascal Precht](https://devchat.tv/adv-in-angular/097-aia-angular-2-tips-with-pascal-precht) - my introduction to @ViewChildren and @ContentChildren
   * [Angular2 video course](https://frontendmasters.com/courses/angular-2/) - I only caught the first few hours of this course from Frontend Masters before my account expired :(
   * [NG2/TS Live Templates for IntelliJ IDEA](https://plugins.jetbrains.com/plugin/8395?pr=idea)
