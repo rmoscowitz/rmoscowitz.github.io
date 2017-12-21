@@ -17,6 +17,7 @@ permalink: /things-i-like/
 * [TEALSK12](https://www.tealsk12.org/) - Computer Science in Every High School
 * [Sketch City](http://sketchcity.org/) - Civic tech and data community in Houston, TX
 * [CFA](http://www.codeforamerica.org/) - Code for America
+* [Electronic Frontier Foundation](https://www.eff.org/) - Defending digital privacy, free speech, and innovation
 
 ### Conferences I've Attended
 * [GHC](http://gracehopper.anitaborg.org/) - Grace Hopper Celebration of Women in Computing
