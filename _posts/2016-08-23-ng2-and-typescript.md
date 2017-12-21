@@ -3,9 +3,9 @@ layout: post
 title: Angular2 and Typescript
 ---
 
-Several weeks ago, our development team here at iOffice began the monumental task of preparing for Angular/Typescript development. There has been shouting. And tears. And a significant increase in chocolate consumption. Our team has bonded in hatred of the angular core team with each breaking change and gushed as interesting new features and fixes actually become available.
+Several weeks ago, our development team here at iOffice began the monumental task of preparing for Angular/Typescript development. There has been shouting. And tears. And a significant increase in chocolate consumption. Our team has bonded in hatred of the Angular core team with each breaking change, and gushed as interesting new features and fixes became available.
 
-Once our build process stabilized and we cemented the the integration with our existing AngularJS code, I started on one of our two new Angular projects. I found getting started to be extremely difficult, so I've decided to write this post and keep a running list of blogs, links and tools that have made my life easier.
+Once our build process stabilized and we finalized the integration with our existing AngularJS code, I started on one of our two new Angular projects. I found getting started to be extremely difficult, but here are a few links and tools that have made my life easier:
 
 
 _Useful resources:_
