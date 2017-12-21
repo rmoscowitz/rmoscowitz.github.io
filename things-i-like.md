@@ -12,11 +12,11 @@ permalink: /things-i-like/
 "The hotel sincerely apologizes for the internet outages this morning, it should be back up an running soon. We ask, however, that you do NOT go down and offer to help."<br> *- Announcement made at the 2010 Grace Hopper Celebration of Women in Computing*
 
 
-### Organizations I Support or Follow
+### Organizations I Support / Follow
 
 * [TEALSK12](https://www.tealsk12.org/) - Computer Science in Every High School
+* [Sketch City](http://sketchcity.org/) - Civic tech and data community in Houston, TX
 * [CFA](http://www.codeforamerica.org/) - Code for America
-* [Rice MOB](mob.rice.edu) - Not your average marching band...
 
 ### Conferences I've Attended
 * [GHC](http://gracehopper.anitaborg.org/) - Grace Hopper Celebration of Women in Computing
