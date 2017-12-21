@@ -9,7 +9,7 @@ For my first technical post, I thought I'd start small and write about a fun lit
 I needed to draw the user's attention to a button after they've arrived on a page. If you're thinking "I bet she's gonna talk about animations"... YOU'RE RIGHT!
 
 ### The Players
-This application (and the code examples below) are Angular, ES6 and CSS3/LESS.
+This application (and the code examples below) are AngularJS, ES6 and CSS3/LESS.
 
 ### The Context
 I have two angular directives; let's call them the main panel and configuration panel. Each of these panels/directives correspond to different angular states.
