@@ -24,6 +24,8 @@ permalink: /things-i-like/
 * [MidwestJS](http://midwestjs.com/)
 
 ### Cool Tech/Things That Make Me Happy
+* [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css)
+* [30 Seconds of JS](https://github.com/30-seconds/30-seconds-of-code)
 * [Andrew Sorensen at OSCON 2014](https://www.youtube.com/watch?v=yY1FSsUV-8c)
 * [Tweet Skirt by Kristina Durivage](http://portfolio.gelicia.com/tweetskirt/) - Ok... pretty much everything on her [site](http://portfolio.gelicia.com/) is awesome
 * [Pixel](http://www.thisiscolossal.com/2015/01/pixel-a-mesmerizing-dance-performance-incorporating-digital-projection/) - Digital projection mapping and dance by artists Adrien Mondot and Claire Bardainne
