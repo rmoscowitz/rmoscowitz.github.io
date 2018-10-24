@@ -25,3 +25,15 @@ Then the stars aligned. We found out that GHC 2015 was going to be held here in 
 I wish I remembered who originally offered me the opportunity to attend GHC as a student. I would go back and thank them and tell them how much of an impact it made on me. Because of that opportunity, I stayed in technology and I've been able to share the GHC experience with my company and colleagues. Like I said, it's been an amazing journey.
 
 More about GHC: [http://gracehopper.anitaborg.org/](http://gracehopper.anitaborg.org/)
+
+**2018 Update!**
+I was very fortunate to have the opportunity to return to GHC this year through the [Hopper program](https://ghc.anitab.org/hoppers/). Hoppers are attendees who commit to spending approximately 6 hours volunteering with simple tasks during the course of the event. My assignments included assisting during the Women of Color luncheon and running the microphone for Q&A during two ABIE award-winner's sessions (including Holly Liu who recounted her experience cofounding game studio Kabam Games). It's a fantastic (but competitve) program that I highly recommend for anyone who has been fortunate enough to attend the conference and wants to give something back. 
+
+![Hoppers 2018](../images/hoppers 2018.png)
+
+Of course, the rest of the conference was a caffeine-fueled flood of inspiration! Just take a look at this picture of the Toyota Center filling up with young women and tell me you're not inspired!!
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Time for <a href="https://twitter.com/hashtag/GHC18?src=hash&amp;ref_src=twsrc%5Etfw">#GHC18</a>! 22,000 women in tech, all on one place! 🎉🎉🎉 <a href="https://t.co/YiWEtU9rcj">pic.twitter.com/YiWEtU9rcj</a></p>&mdash; Robyn Moscowitz Narro (@robynmosco) <a href="https://twitter.com/robynmosco/status/1044953287412404225?ref_src=twsrc%5Etfw">September 26, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Also memorable: my friend Dan and his PROS colleagues Eunice and Kieu presented a workshop called So Little Features, So Little Time, which is an adorable (and informative!) educational game which teaches basic Agile processes and team roles. They really did a fantastic job, and it was an added bonus of getting to reconnect with other PROS employees who were there to support them as well. Check out their material, which is all open source, [on Github](https://tiny.cc/SoManyFeatures)!
