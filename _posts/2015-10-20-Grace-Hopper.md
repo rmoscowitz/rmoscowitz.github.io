@@ -26,7 +26,9 @@ I wish I remembered who originally offered me the opportunity to attend GHC as a
 
 More about GHC: [http://gracehopper.anitaborg.org/](http://gracehopper.anitaborg.org/)
 
+
 **2018 Update!**
+
 I was very fortunate to have the opportunity to return to GHC this year through the [Hopper program](https://ghc.anitab.org/hoppers/). Hoppers are attendees who commit to spending approximately 6 hours volunteering with simple tasks during the course of the event. My assignments included assisting during the Women of Color luncheon and running the microphone for Q&A during two ABIE award-winner's sessions (including Holly Liu who recounted her experience cofounding game studio Kabam Games). It's a fantastic (but competitve) program that I highly recommend for anyone who has been fortunate enough to attend the conference and wants to give something back. 
 
 ![Hoppers 2018](../images/hoppers_2018.png)
