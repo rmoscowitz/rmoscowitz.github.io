@@ -22,6 +22,7 @@ permalink: /things-i-like/
 ### Conferences I've Attended
 * [GHC](http://gracehopper.anitaborg.org/) - Grace Hopper Celebration of Women in Computing
 * [MidwestJS](http://midwestjs.com/)
+* [Frontend Fest](https://frontendfest.io/)
 
 ### Cool Tech/Things That Make Me Happy
 * [30 Seconds of CSS](https://30-seconds.github.io/30-seconds-of-css)
@@ -33,9 +34,10 @@ permalink: /things-i-like/
 * [Wind Map](http://hint.fm/wind/)
 * [GoldieBlox](http://www.goldieblox.com/) - Award-winning construction toys for girls
 * [Lego Research Institute set](http://shop.lego.com/en-US/Research-Institute-21110) - Featuring female scientists
+* [God of Cake](http://hyperboleandahalf.blogspot.com/2010/10/god-of-cake.html)
 
 ### Time Wasters
-* [Regex Crossword](https://regexcrossword.com/) - oh gawd yes so nerdy
+* [Regex Crossword](https://regexcrossword.com/)
 * [Flexbox Defense](http://www.flexboxdefense.com/) - achieving the impossible of making learning CSS fun
 * [Frozen Coding Challenge](https://studio.code.org/s/frozen/stage/1/puzzle/1) - From Hour of Code 2014
 * [Star Wars Coding Challenge](https://studio.code.org/s/starwars/stage/1/puzzle/1) - From Hour of Code 2015
