@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Frontend Fest 2019
-published: false
+published: true
 ---
 
 _In April 2019 I attended [Frontend Fest](https://frontendfest.io/) and wrote a post about my experience, but work was busy, life was crazy, and it never got published. Now a year later, in the midst of the Covid-19 pandemic, I've enjoyed going back and reading about the excitement of flying to Chicago (what is air travel?), staying in a hotel (there are places outside my house?) and meeting new people (GASP!). Without further ado, here's my Frontend Fest recap._
