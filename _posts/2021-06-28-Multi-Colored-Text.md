@@ -31,10 +31,10 @@ The key is the background gradient and transparent text! Neat, huh?
 
 :root {
   --color-1: #190083;
-  --color-2: #C2D3CD;
-  --color-3: #AFBFC0;
-  --color-4: #9FA4A9;
-  --color-5: #847E89;
+  --color-2: #008DD5;
+  --color-3: #56E39F;
+  --color-4: #BFAB25;
+  --color-5: #B81365;
 }
 
 .wrapper {
