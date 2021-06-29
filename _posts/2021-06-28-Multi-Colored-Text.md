@@ -30,10 +30,10 @@ The key is the background gradient and transparent text! Neat, huh?
 }
 
 :root {
-  --color-1: #190083;
+  --color-1: #BFAB25;
   --color-2: #008DD5;
   --color-3: #56E39F;
-  --color-4: #BFAB25;
+  --color-4: #190083;
   --color-5: #B81365;
 }
 
@@ -43,7 +43,6 @@ The key is the background gradient and transparent text! Neat, huh?
   min-height: 100%;
   display: grid;
   place-items: center;
-  min-height: calc(100vh - 16px);
 }
 
 h1 {
