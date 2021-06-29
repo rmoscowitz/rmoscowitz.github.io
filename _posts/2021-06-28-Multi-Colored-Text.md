@@ -5,7 +5,15 @@ title: Multi Colored Text
 
 I saw [this tweet](https://twitter.com/bramusblog/status/1409484007511838723) with a cute example of using CSS to color text with a background gradient. Check it out!
 
-Not much to the html:
+<div class="multi-color">
+  <div class="wrapper">
+    <div class="container">
+      <h1>Hello world!</h1>
+    </div>
+  </div>
+</div>
+
+The html:
 
 ```html
 <div class="wrapper">
@@ -14,7 +22,7 @@ Not much to the html:
   </div>
 </div>
 ```
-Here are the styles:
+The key is the background gradient and transparent text! Neat, huh?
 
 ```css
 * {
@@ -73,11 +81,3 @@ h1 {
   }
 }
 ```
-
-<div class="multi-color">
-  <div class="wrapper">
-    <div class="container">
-      <h1>Hello world!</h1>
-    </div>
-  </div>
-</div>
