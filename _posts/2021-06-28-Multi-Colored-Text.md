@@ -8,7 +8,7 @@ I saw [this tweet](https://twitter.com/bramusblog/status/1409484007511838723) wi
 <div class="multi-color">
   <div class="wrapper">
     <div class="container">
-      <h1>Hello world!</h1>
+      <h1>Hello world! My name is Robyn.</h1>
     </div>
   </div>
 </div>
@@ -30,11 +30,11 @@ The key is the background gradient and transparent text! Neat, huh?
 }
 
 :root {
-  --color-1: #BFAB25;
-  --color-2: #008DD5;
-  --color-3: #56E39F;
-  --color-4: #190083;
-  --color-5: #B81365;
+  --color-1: #FFB2E6;
+  --color-2: #D972FF;
+  --color-3: #8447FF;
+  --color-4: #8CFFDA;
+  --color-5: #FFFFE8;
 }
 
 .wrapper {
