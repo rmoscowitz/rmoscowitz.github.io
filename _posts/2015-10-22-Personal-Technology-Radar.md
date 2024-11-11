@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Personal Technology Radar
+published: false
 ---
 
 I originally got the idea for creating a personal technology radar after reading a blog post titled [Build Your Own Technology Radar](https://www.thoughtworks.com/insights/blog/build-your-own-technology-radar) by Neal Ford of ThoughtWorks. I was familiar with the ThoughtWorks Technology Radar but I had never considered creating a personal radar. Neal made some excellent points which convinced me to try it...

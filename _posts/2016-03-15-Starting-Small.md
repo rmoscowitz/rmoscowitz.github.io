@@ -1,9 +1,7 @@
 ---
 layout: post
-title: Starting Small
+title: A Radioactive Glow
 ---
-
-For my first technical post, I thought I'd start small and write about a fun little feature that I worked on it earlier this week. It's by no means new, but it was new (and amusing!) to me.
 
 ### The Situation
 I needed to draw the user's attention to a button after they've arrived on a page. If you're thinking "I bet she's gonna talk about animations"... YOU'RE RIGHT!
