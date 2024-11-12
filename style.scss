@@ -247,14 +247,37 @@ nav {
 // .main
 //
 
-.posts > .post {
-  padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+.posts {
+  display: grid;
+  gap: 2em;
+  grid-template-columns: 1fr;
+
+  @media screen and (min-width: 768px) {
+    & {
+      grid-template-columns: 1fr 1fr; // 2 columns for larger screens
+    }
+  }
 }
 
-.posts > .post:last-child {
-  padding-bottom: 1em;
-  border-bottom: none;
+.posts > .post {
+  border: 1px solid $lightGray;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  display: grid;
+  grid-template-columns: subgrid;
+  grid-template-rows: auto 1fr auto;
+  padding: 1em;
+
+  h1 {
+    margin: 0;
+  }
+
+  .read-more {
+    align-self: end;
+    font-size: 15px;
+    grid-row: 3;
+    margin-top: 10px;
+    text-transform: uppercase;
+  }
 }
 
 .post {
@@ -265,15 +288,6 @@ nav {
     color: $gray;
     font-size: 22px;
     font-style: italic;
-  }
-
-  .comments {
-    margin-top: 10px;
-  }
-
-  .read-more {
-    text-transform: uppercase;
-    font-size: 15px;
   }
 }
 
