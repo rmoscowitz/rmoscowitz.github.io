@@ -3,16 +3,12 @@ layout: page
 permalink: /about/
 ---
 
-Howdy.
-
-### About
-
-I'm a frontend software developer in Houston, Texas. Thanks for visiting my site!
+Howdy. I'm a frontend software developer in Houston, Texas. Thanks for visiting my site!
 
 ### Organizations I Support
 
-* [TEALSK12](https://www.microsoft.com/en-us/teals) - Computer Science in Every High School
 * [Mentors in Tech](https://mentorsintech.com/) - Connecting overlooked tech students with industry professionals
+* [TEALS](https://www.microsoft.com/en-us/teals) - Computer Science in every high school
 * [CFA](http://www.codeforamerica.org/) - Code for America
 * [Electronic Frontier Foundation](https://www.eff.org/) - Defending digital privacy, free speech, and innovation
 
@@ -24,4 +20,4 @@ I'm a frontend software developer in Houston, Texas. Thanks for visiting my site
 
 ### Contact me
 
-Find me on LinkedIn
+Find me on [LinkedIn](https://www.linkedin.com/in/robynmoscowitznarro/)
